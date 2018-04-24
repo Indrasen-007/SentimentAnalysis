@@ -1,0 +1,4 @@
+Step 1 : Install nltk and tweepy
+step 2 : Run Train_Tweet
+step 3 : Run Extract_Result to get the result
+step 4 : Run Plot_Graph to plot the graph
